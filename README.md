@@ -31,7 +31,7 @@ SAR narrative drafting aligned with the 3rd AML Directive and Estonian MLTFPA
 Criminological analysis of the opportunity structure exploited
 
 
-[View full report →](https://github.com/Josemanuelcanovascrimi/aml-financial-crime-portfolio/raw/main/Danske_Bank_SAR.pdf)
+[View full report →](https://github.com/Josemanuelcanovascrimi/aml-financial-crime-portfolio/raw/main/Danske_Bank__SAR.pdf)
 
 
 🔍 Project 2 — OSINT Due Diligence Report: NovaPay Solutions Ltd
