@@ -31,7 +31,7 @@ SAR narrative drafting aligned with the 3rd AML Directive and Estonian MLTFPA
 Criminological analysis of the opportunity structure exploited
 
 
-📄 [View full report →](./Danske_Bank_SAR.pdf)
+[View full report →](https://github.com/Josemanuelcanovascrimi/aml-financial-crime-portfolio/raw/main/Danske_Bank_SAR.pdf)
 
 
 🔍 Project 2 — OSINT Due Diligence Report: NovaPay Solutions Ltd
@@ -49,7 +49,7 @@ OSINT techniques for digital footprint analysis
 Risk rating methodology and EDD narrative
 
 
-📄 [View full report →](./OSINT_NovaPay_Due_Diligence.pdf)
+📄[View full report →](https://github.com/Josemanuelcanovascrimi/aml-financial-crime-portfolio/raw/main/OSINT_NovaPay_Due_Diligence.pdf)
 
 
 ₿ Project 3 — Crypto Tracing Report: Ransomware Fund Flow Analysis
@@ -67,8 +67,7 @@ VASP exposure assessment
 Reporting under FATF Recommendation 15 (Virtual Assets)
 
 
-📄 [View full report →](./Crypto_Tracing_Report.pdf)
-
+📄 [View full report →](https://github.com/Josemanuelcanovascrimi/aml-financial-crime-portfolio/raw/main/Crypto_Tracing_Report.pdf)
 
 Core Competencies
 
