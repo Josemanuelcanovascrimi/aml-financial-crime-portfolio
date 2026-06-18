@@ -31,7 +31,7 @@ SAR narrative drafting aligned with the 3rd AML Directive and Estonian MLTFPA
 Criminological analysis of the opportunity structure exploited
 
 
-📄 View full report →
+📄 [View full report →](./Danske_Bank_SAR.pdf)
 
 
 🔍 Project 2 — OSINT Due Diligence Report: NovaPay Solutions Ltd
@@ -49,7 +49,7 @@ OSINT techniques for digital footprint analysis
 Risk rating methodology and EDD narrative
 
 
-📄 View full report →
+📄 [View full report →](./OSINT_NovaPay_Due_Diligence.pdf)
 
 
 ₿ Project 3 — Crypto Tracing Report: Ransomware Fund Flow Analysis
@@ -67,7 +67,7 @@ VASP exposure assessment
 Reporting under FATF Recommendation 15 (Virtual Assets)
 
 
-📄 View full report →
+📄 [View full report →](./Crypto_Tracing_Report.pdf)
 
 
 Core Competencies
@@ -83,17 +83,6 @@ Background
 🌍 Languages — Spanish (native) · English (C1 Advanced)
 📍 Based in Murcia, Spain — open to relocation anywhere in the EU
 🏛️ Also targeting — Europol, Eurojust, AMLA traineeships
-
-
-
-Certifications (in progress / completed)
-
-
-Sumsub AML Certification
-UNODC — Anti-Money Laundering
-OSINT Fundamentals
-ENISA — Cybersecurity Awareness
-
 
 
 Contact
