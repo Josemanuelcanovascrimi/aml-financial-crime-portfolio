@@ -2,9 +2,9 @@ José Manuel Cánovas Soler
 
 AML Analyst | Financial Crime | KYC/KYB | OSINT | Compliance
 
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/josémanuelcanovas03)
+[![Location](https://img.shields.io/badge/Location-Murcia%2C%20Spain-lightgrey?style=flat)]()
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)]()
 
 
 Recent Criminology graduate (University of Murcia, GPA 8.0/10 — Dissertation graded 10/10 with Distinction) specialising in financial crime, AML/CFT compliance, and OSINT-based due diligence. Law enforcement internship at Policía Local de Murcia (Feb–May 2026). Open to relocation anywhere in the EU.
